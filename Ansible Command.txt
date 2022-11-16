@@ -1,0 +1,12 @@
+Master 
+1  sudo apt-get update
+    2  sudo apt install software-properties-common
+    3  sudo add-apt-repository --yes --update ppa:ansible/ansible
+    4  sudo apt install ansible
+    5  ssh-keygen
+    6  sudo cat /home/ubuntu/.ssh/id_rsa.pub
+    7  sudo nano /etc/ansible/hosts
+    8  ansible -m ping all
+
+Slave
+

